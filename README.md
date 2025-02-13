@@ -8,5 +8,3 @@ Bastia01/Bastia01 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-
-erd12fyks8kxmaczmj0x7pwsmphket0c3thkvffxl4d2vvzlmvt6e0dqtzk8ld
